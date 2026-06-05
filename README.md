@@ -47,13 +47,15 @@ $\ $
 ### 3.1. DATA
 **84,792** firm-quarters of data for NYSE/AMEX firms over a 12 years period (1974-86). *That's 48 quarters, so there are approx. 1766.5 firms in the sample*.
 
-**15,457** firm-quarter data for stocks from the NASDAQ (1974-1985) (but NASDAQ isn't use in their study? I think we can skip this part).
+**15,457** firm-quarter data for stocks from the NASDAQ (1974-1985) (but NASDAQ isn't used in their study? I think we can skip this part).
 
-Critera inclusion: see those used by FOS.
+Critera inclusion: those used by FOS. They start with the Compustat file.
+1. Each company must have at least ten consecutive earnings observations on Compustat
+2. Each of these companies must have data on the CRSP daily tape (we skip this step by fetching directly from the list of CRSP Daily)
 
 **Requirement**
 - firm listed on the CRSP daily files
-- firm's earnings before extrordinary items and discontinued opoeration be available for at least 10 consecuutive quarters (on Compustat)
+- firm's earnings before extrordinary items and discontinued operation be available for at least 10 consecutive quarters (on Compustat)
 They have a potential survirorship bias: they use Compustat, some firms have been dropped since the beginning of the sample.
 
 $\ $
