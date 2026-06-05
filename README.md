@@ -182,7 +182,8 @@ Regression of calendar-quarter returns on the COS contrrol portfolio strategy ag
 **4.2.3. Consistent profitability of the strategy**
 
 
-
+DATA
+For CRSP Daily, we stop at 2025-12-31 because that its the latest available thing. For Compustat, we could have want to 2026-06 but pointless with no daily prices.
 
 
 
