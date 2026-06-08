@@ -7,4 +7,4 @@
 
 [] Why are our days with no match and our matches within 2 days different compared to the % of the paper?
 
-[] Fixing the Quintile/sizeGroup order issue to have both FIG2 working and sizegroup available 
+[] Instead of manually computing returns, using DlyRet (adjusted for stock splits, etc.)
