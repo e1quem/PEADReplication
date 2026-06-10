@@ -1,0 +1,14 @@
+D10 (good)
+Small: 0.69% (3.21)  n=2209
+Medium: 0.08% (0.60)  n=2671
+Large: 0.08% (0.90)  n=3595
+
+D1 (bad)
+Small: 0.09% (0.41)  n=2065
+Medium: 0.19% (1.34)  n=2685
+Large: 0.09% (0.92)  n=3592
+
+Long/short difference
+Small: 0.60%
+Medium: -0.10%
+Large: -0.01%
