@@ -1,9 +1,9 @@
 # PEADReplication
-Replication & out-of-sample extension of the post-earnings-announcement drift anomaly explanation (Bernard & Thomas, 1989).
+Replication & out-of-sample extension of the post-earnings-announcement drift (PEAD)anomaly explanation (Bernard & Thomas, 1989).
 
-Report available: ```PEADReplication.pdf```.
+Report available here: ```PEADReplication.pdf```.
 
-# Paper
+# Report
 
 ![Page 1](media/LaTeX/P1.png)
 ![Page 2](media/LaTeX/P2.png)
