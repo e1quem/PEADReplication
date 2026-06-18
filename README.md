@@ -1,12 +1,18 @@
-# PostEarningsDrift
-Replication and out-of-sample extension of the post-earnings-announcement drift anomaly (Bernard & Thomas, 1989)
+# PEADReplication
+Replication & out-of-sample extension of the post-earnings-announcement drift anomaly explanation (Bernard & Thomas, 1989).
 
-### Information
-Final report: at most 10 pages including appendices and references (12pt Times New Roman font, 1.5 line spacing).
+Report available: ```PEADReplication.pdf```.
 
-### Steps
-1. Understand the research question, methodology, and key findings of the paper
-2. Reproduce the main empirical results using real financial data
-3. Extend the sample period to the most recent available time period
-4. Evaluate whether the original conclusions still hold out of sample (after the original sample period ends)
-5. Submit a brief report that summarizes your work, results, and interpretation
+# Paper
+
+![Page 1](media/LaTeX/P1.png)
+![Page 2](media/LaTeX/P2.png)
+![Page 3](media/LaTeX/P3.png)
+![Page 4](media/LaTeX/P4.png)
+![Page 5](media/LaTeX/P5.png)
+![Page 6](media/LaTeX/P6.png)
+![Page 7](media/LaTeX/P7.png)
+![Page 8](media/LaTeX/P8.png)
+![Page 9](media/LaTeX/P9.png)
+![Page 10](media/LaTeX/P10.png)
+![Page 11](media/LaTeX/P11.png)
